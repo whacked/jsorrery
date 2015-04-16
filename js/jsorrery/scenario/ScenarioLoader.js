@@ -4,15 +4,16 @@ define(
 		'jquery'
 		,'jsorrery/NameSpace'
 		,'jsorrery/scenario/CommonCelestialBodies'
-		,'jsorrery/scenario/SolarSystem'
-		,'jsorrery/scenario/InnerSolarSystem'
-		,'jsorrery/scenario/Apollo'
-		,'jsorrery/scenario/EarthMoon'
-		,'jsorrery/scenario/ArtificialSatellites'
-		,'jsorrery/scenario/JupiterMoon'
+		//,'jsorrery/scenario/SolarSystem'
+		//,'jsorrery/scenario/InnerSolarSystem'
+		// ,'jsorrery/scenario/Apollo'
+		//,'jsorrery/scenario/EarthMoon'
+		//,'jsorrery/scenario/ArtificialSatellites'
+		//,'jsorrery/scenario/JupiterMoon'
 		,'jsorrery/scenario/NearEarthObject'
-		,'jsorrery/scenario/BigJupiter'
+		//,'jsorrery/scenario/BigJupiter'
 		//,'jsorrery/scenario/MoonSOI'
+		,'jsorrery/scenario/TestScenario'
 	],
 	function($, ns, common){
 
