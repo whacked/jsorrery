@@ -222,7 +222,7 @@ define(
 			var orbitalElements = neodata.orbitalElements;
 			bodies['_'+this.name] = _.extend({
 				title : this.name,
-        map: 'img/pusheenmap1.png',
+        map: 'img/happymap.png',
 				orbit: {
 					epoch : epochDate,
 					base : {
